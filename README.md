@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨🏽‍💻 Hi there! I'm Marcus Vynicius
 
-<!--
-**MVyni/MVyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Backend Developer`**
 
-Here are some ideas to get you started:
+🚀 Career Transitioning Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate developer currently transitioning into the tech industry to pursue my dream of working in Software Development. I love building things and solving problems through code.
+
+## ⚙️ Languages & Frameworks I code in
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,prisma,postgres,vitest,docker)](https://skillicons.dev)
+<br/>
+<br/>
+
+## 👥  How to reach me
+<div>
+  <a href="mailto: marcusvyniciusaferreira@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" title="GMAIL"/></a>
+  <a href="https://www.linkedin.com/in/marcusvyniciusferreira/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" title="LINKEDIN"/></a>
+  <a href="https://github.com/MVyni"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" title="GITHUB"/></a>
+</div>
+<br/>
+
+<div align="center">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=footer"/>
