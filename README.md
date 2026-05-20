@@ -1,15 +1,38 @@
-# 👨🏽‍💻 Hi there! I'm Marcus Vynicius
+# 👨🏽‍💻 Hi there! I'm Marcus Vynicius Ferreira
 
 **`Backend Developer`**
 
-🚀 Career Transitioning Developer
+## 👨‍💻 About Me
 
-I am a passionate developer currently transitioning into the tech industry to pursue my dream of working in Software Development. I love building things and solving problems through code.
+Backend Developer with experience building enterprise and modern web applications using **Java**, **Spring**.
 
-## ⚙️ Languages & Frameworks I code in
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,prisma,postgres,vitest,docker)](https://skillicons.dev)
-<br/>
-<br/>
+Focused on scalable applications, REST APIs, clean architecture, and modern web experiences with maintainable and high-quality code.
+
+### 🚀 Main Technologies
+
+- ⚡ Backend development with **Java/Spring**
+- 🏛️ REST APIs and Clean Architecture
+- 🐳 Docker and CI/CD
+- 🧪 Unit and Integration Testing
+- 📐 SOLID principles and Design Patterns
+- 📄 API documentation with Swagger/OpenAPI
+
+---
+
+## 🛠️ Technologies & Tools
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+
+### 🧪 Testing
+<img src="https://skillicons.dev/icons?i=vitest,jest&theme=dark" />
+
+### 🚀 Infra & DevOps
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions&theme=dark" />
+
 
 ## 👥  How to reach me
 <div>
