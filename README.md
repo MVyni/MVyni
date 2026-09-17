@@ -1,16 +1,15 @@
-# 👨🏽‍💻 Hi there! I'm Marcus Vynicius Ferreira
+# Hi there!👋🏽  I'm Marcus Vynicius Ferreira
 
 **`Backend Developer`**
 
-## 👨‍💻 About Me
+## 👨🏽‍💻 About Me
 
-Backend Developer with experience building enterprise and modern web applications using **Java**, **Spring**.
-
+Software Engineer with experience building enterprise, modern web applications and automations.
 Focused on scalable applications, REST APIs, clean architecture, and modern web experiences with maintainable and high-quality code.
 
 ### 🚀 Main Technologies
 
-- ⚡ Backend development with **Java/Spring**
+- ⚡ Software development
 - 🏛️ REST APIs and Clean Architecture
 - 🐳 Docker and CI/CD
 - 🧪 Unit and Integration Testing
