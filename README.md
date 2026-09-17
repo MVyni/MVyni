@@ -1,6 +1,6 @@
 # Hi there!👋🏽  I'm Marcus Vynicius Ferreira
 
-**`Backend Developer`**
+**`Software Engineer`**
 
 ## 👨🏽‍💻 About Me
 
