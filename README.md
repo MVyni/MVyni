@@ -22,16 +22,16 @@ Focused on scalable applications, REST APIs, clean architecture, and modern web 
 ## 🛠️ Technologies & Tools
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,typescript,&theme=dark" />
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+### 🗄️ Databases & ORMs
+<img src="https://skillicons.dev/icons?i=postgres,prisma,sequelize&theme=dark" />
 
 ### 🧪 Testing
 <img src="https://skillicons.dev/icons?i=vitest,jest&theme=dark" />
 
 ### 🚀 Infra & DevOps
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git&theme=dark" />
 
 
 ## 👥  How to reach me
